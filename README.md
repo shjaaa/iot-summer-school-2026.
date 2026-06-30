@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: YOUR NAME
-* Roll Number: YOUR ROLL NUMBER
+* Name: Shobhit Singh
+* Roll Number: 2401020052
 * Branch: ECE
 
 ## Project Description
