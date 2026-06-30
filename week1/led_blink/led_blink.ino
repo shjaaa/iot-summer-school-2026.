@@ -1,3 +1,8 @@
+/*
+Author: Shobhit Singh
+Date: 30-06-2026
+Description: LED blink with potentiometer-controlled speed.
+*/
 int potPin = A0;
 int ledPin = 13;
 
