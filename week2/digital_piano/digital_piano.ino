@@ -3,6 +3,7 @@ Author: Shobhit Singh
 Date: 30-06-2026
 Description: Digital Piano using passive buzzer
 */
+// Play Sol when two or more keys are pressed
 
 const int buzzer = 8;
 
