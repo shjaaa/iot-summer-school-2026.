@@ -4,6 +4,7 @@ Date: 30-06-2026
 Description: Digital Piano using passive buzzer
 */
 // Play Sol when two or more keys are pressed
+// Toggle between Major and Minor scales
 
 const int buzzer = 8;
 
