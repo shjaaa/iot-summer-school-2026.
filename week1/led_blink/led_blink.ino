@@ -15,6 +15,11 @@ void loop() {
   int value = analogRead(potPin);
   int delayTime = map(value, 0, 1023, 100, 1000);
 
+  // CSV logging
+  Serial.print(value);
+  Serial.print(",");
+  Serial.println(delayTime);
+
   digitalWrite(ledPin, HIGH);
   delay(delayTime);
   digitalWrite(ledPin, LOW);
