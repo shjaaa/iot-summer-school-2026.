@@ -1,1 +1,15 @@
-# iot-summer-school-2026.
+# IIT Jammu Summer School 2026 – Internet of Things
+
+## Student Details
+
+* Name: YOUR NAME
+* Roll Number: YOUR ROLL NUMBER
+* Branch: ECE
+
+## Project Description
+
+This repository contains all assignments, experiments, and projects completed during the IIT Jammu Summer School 2026 IoT & Embedded Systems Program.
+
+The repository includes Arduino programming, sensor interfacing, wireless communication projects, and advanced IoT applications.
+
+All source code, documentation, circuit diagrams, and screenshots are maintained using Git and GitHub for version control.
