@@ -1,0 +1,8 @@
+| Parameter             | Microcontroller (Arduino UNO)                | Microprocessor (Raspberry Pi)                         |
+| --------------------- | -------------------------------------------- | ----------------------------------------------------- |
+| **CPU Speed**         | 16 MHz                                       | 1.5 GHz (approx.)                                     |
+| **On-chip RAM**       | 2 KB SRAM                                    | 4 GB/8 GB RAM (model dependent)                       |
+| **On-chip Flash**     | 32 KB Flash                                  | No built-in flash; uses microSD card storage          |
+| **Operating System**  | No OS (runs a single program directly)       | Linux-based OS (Raspberry Pi OS)                      |
+| **Typical Use Case**  | Sensors, embedded systems, simple automation | Multimedia, AI, web servers, complex IoT applications |
+| **Power Consumption** | Low (few milliwatts)                         | Higher (few watts)                                    |
