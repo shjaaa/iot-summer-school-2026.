@@ -191,8 +191,6 @@ ERROR: Unknown command
 
 ## Author
 
-Name: _____Shobhit______
-
-Roll No.: ___________
+Name: Shobhit
 
 Course: Internet of Things (IoT)
